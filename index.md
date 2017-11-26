@@ -1,4 +1,4 @@
-# Contact me
+## Contact me
 
 - [Twitter](https://twitter.com/aitormagan)
 - [LinkedIn](https://linkedin.com/in/aitormagan)
