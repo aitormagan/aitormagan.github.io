@@ -10,3 +10,10 @@
 * **[Nest Tracking](https://github.com/aitormagan/nest_tracking)**<br/>Node script to store Nest information in a InfluxDB so it can be accessed using a Grafana dashboard.<br/>*May, 2020*
 * **[Spain COVID19 Bot](https://github.com/aitormagan/covid19spainbot)**<br/>Bot that publishes daily the new cases of COVID19 in Spain.<br/>*May, 2020*
 * **[Computer engineer discovers a bug in Movistar TV which allowed to watch TV Channels for free](https://www.eleconomista.es/tecnologia/noticias/6634838/04/15/Un-informatico-descubre-un-fallo-en-Movistar-TV-que-permite-ver-gratis-los-canales.html)** *(Spanish)*<br/>Press article which describe how I discoved a bug in the most popular Spanish TV Platform which allow anyone to watch any available channel.<br/>*May, 2015*
+
+# Certificates 
+
+* **[AWS Certified Security Specialty](https://www.certmetrics.com/amazon/public/badge.aspx?i=7&t=c&d=2019-10-21&ci=AWS00250766)**<br/>*Oct, 2019*
+* **[AWS Certified Solutions Architect – Professional](https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2018-12-14&ci=AWS00250766)**<br/>*Dec, 2018*
+* **[ISTQB Certified Tester Foundation Level](http://scr.istqb.org/?name=&number=18-CTFL-128261-03&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)**<br/>*Jan, 2018*
+* **[AWS Certified Solutions Architect – Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-03-27&ci=AWS00250766)**<br/>*Mar, 2017*
