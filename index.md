@@ -5,10 +5,12 @@
   <a href="https://t.me/aitormagan" target="_blank"><img src="https://raw.githubusercontent.com/aitormagan/aitormagan.github.io/master/assets/telegram.png" height="60px" style="margin:20px" /></a>
 </p>
 
-# Projects & Relevant Facts
-
+# Projects
 * **[Nest Tracking](https://github.com/aitormagan/nest_tracking)**<br/>Node script to store Nest information in a InfluxDB so it can be accessed using a Grafana dashboard.<br/>*May, 2020*
 * **[Spain COVID19 Bot](https://github.com/aitormagan/covid19spainbot)**<br/>Bot that publishes daily the new cases of COVID19 in Spain.<br/>*May, 2020*
+* **[Nuvik.io](https://nuvik.io)**<br/>Platform to syncronize digital agile dashboards (Jira, Kanbanize, Trello) with physical boards with the use of NFC cards<br>*2018-2020*
+
+# Press
 * **[Computer engineer discovers a bug in Movistar TV which allowed to watch TV Channels for free](https://www.eleconomista.es/tecnologia/noticias/6634838/04/15/Un-informatico-descubre-un-fallo-en-Movistar-TV-que-permite-ver-gratis-los-canales.html)** *(Spanish)*<br/>Press article which describe how I discoved a bug in the most popular Spanish TV Platform which allow anyone to watch any available channel.<br/>*May, 2015*
 
 # Certificates 
