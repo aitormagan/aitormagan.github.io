@@ -7,7 +7,7 @@
 
 # Projects & Relevant Facts
 
-* **[Nest Tracking](https://github.com/aitormagan/nest_tracking)**
+* **[Nest Tracking](https://github.com/aitormagan/nest_tracking)**<br/>
 Node script to store Nest information in a InfluxDB so it can be accessed using a Grafana dashboard. *(May, 2020)*
 * **[Spain COVID19 Bot](https://github.com/aitormagan/covid19spainbot)**
 Bot that publishes daily the new cases of COVID19 in Spain. *(May, 2020)*
