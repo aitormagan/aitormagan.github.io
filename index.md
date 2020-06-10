@@ -33,6 +33,7 @@
 * Big Data
 * Java
 * Python
+* NodeJS
 * CI/CD
 * Code Quality
 * Microservices
