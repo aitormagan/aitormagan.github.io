@@ -26,3 +26,14 @@
 * **[AWS Certified Solutions Architect – Professional](https://www.certmetrics.com/amazon/public/badge.aspx?i=4&t=c&d=2018-12-14&ci=AWS00250766)**<br/>*Dec, 2018*
 * **[ISTQB Certified Tester Foundation Level](http://scr.istqb.org/?name=&number=18-CTFL-128261-03&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)**<br/>*Jan, 2018*
 * **[AWS Certified Solutions Architect – Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2017-03-27&ci=AWS00250766)**<br/>*Mar, 2017*
+
+# Interests
+
+* Cloud Computing: AWS, GAE, Azure
+* Big Data
+* Java
+* Python
+* CI/CD
+* Code Quality
+* Microservices
+* Rest APIs
