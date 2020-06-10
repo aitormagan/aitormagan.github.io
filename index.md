@@ -30,11 +30,11 @@
 # Interests
 
 * Cloud Computing: AWS, GAE, Azure
+* Programming Languages: Java, Python, NodeJS
+* Databases: MySQL, PostgreSQL, MongoDB
 * Big Data
-* Java
-* Python
-* NodeJS
 * CI/CD
 * Code Quality
 * Microservices
 * Rest APIs
+* 🍕 & 🍔 & 🍻
