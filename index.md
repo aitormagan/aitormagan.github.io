@@ -32,12 +32,11 @@
 
 # Interests
 
-* Cloud Computing: AWS, GCP, Azure
-* Programming Languages: Java, Python, NodeJS
-* Databases: MySQL, PostgreSQL, MongoDB
-* Big Data
-* CI/CD
-* Code Quality
-* Microservices
-* Rest APIs
+* **Cloud Computing**<br/>AWS, GCP, Azure
+* **Programming Languages**<br/>Java, Python, NodeJS
+* **Databases**<br/>MySQL, PostgreSQL, MongoDB, DynamoDB
+* **Big Data**<br/>Pig, Hive, Redshift
+* **CI/CD**<br/>Pipelines, Ansible
+* **Code Quality**<br/>JUnit, Mockito, unittest, Cucumber
+* **Microservices & Rest**<br/>Spring Boot, Flask, Express
 * 🍕 & 🍔 & 🍻
