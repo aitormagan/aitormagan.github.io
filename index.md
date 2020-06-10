@@ -29,7 +29,7 @@
 
 # Interests
 
-* Cloud Computing: AWS, GAE, Azure
+* Cloud Computing: AWS, GCP, Azure
 * Programming Languages: Java, Python, NodeJS
 * Databases: MySQL, PostgreSQL, MongoDB
 * Big Data
