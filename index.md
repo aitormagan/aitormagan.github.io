@@ -36,7 +36,7 @@
 * **Programming Languages**<br/>Java, Python, NodeJS
 * **Databases**<br/>MySQL, PostgreSQL, MongoDB, DynamoDB
 * **Big Data**<br/>Pig, Hive, Redshift
-* **CI/CD**<br/>Pipelines, Ansible
+* **CI/CD**<br/>Jenkins, Travis, Pipelines, Ansible
 * **Code Quality**<br/>JUnit, Mockito, unittest, Cucumber
 * **Microservices & Rest**<br/>Spring Boot, Flask, Express
 * 🍕 & 🍔 & 🍻
