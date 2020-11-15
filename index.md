@@ -12,6 +12,7 @@
 * **CoNWeT Lab - Universidad Politécnica de Madrid**<br/>*2011-2016*
 
 # Personal Projects
+* **[Informativo de Ángel Martín](https://assistant.google.com/services/a/uid/000000f1cc16c4b6?hl=es)**<br/>Angel Martin is a well known comedian from Spain. In September 2020, Angel started a Twitter show where all the important news of the previous day are depicted in less than 2 minutes and 20 seconds. This Google Action is intended for playing this show in Google Assitant.<br/>*Nov, 2020*
 * **[Nest Tracking](https://github.com/aitormagan/nest_tracking)**<br/>Node script to store Nest information in a InfluxDB so it can be accessed using a Grafana dashboard.<br/>*May, 2020*
 * **[Spain COVID19 Bot](https://github.com/aitormagan/covid19spainbot)**<br/>Bot that publishes daily the new cases of COVID19 in Spain.<br/>*May, 2020*
 * **[Nuvik.io](https://nuvik.io)**<br/>Platform to syncronize digital agile dashboards (Jira, Kanbanize, Trello) with physical boards by the use of NFC cards<br>*2018-2020*
