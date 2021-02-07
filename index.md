@@ -16,7 +16,7 @@
 * **[Nest Tracking](https://github.com/aitormagan/nest_tracking)**<br/>Node script to store Nest information in a InfluxDB so it can be accessed using a Grafana dashboard.<br/>*May, 2020*
 * **[Spain COVID19 Bot](https://github.com/aitormagan/covid19spainbot)**<br/>Bot that publishes daily the new cases of COVID19 in Spain.<br/>*May, 2020*
 * **[Nuvik.io](https://nuvik.io)**<br/>Platform to syncronize digital agile dashboards (Jira, Kanbanize, Trello) with physical boards by the use of NFC cards<br>*2018-2020*
-* **Informacion Metro de Madrid**<br/>Google Action intended for Metro de Madrid users in order to provide them with information such as network incidents or the estimated time of arrival of the next train.<br/>*Aug, 2018 and Jan, 2021*
+* **Informacion Metro de Madrid**<br/>Google Action and Alexa Skill intended for Metro de Madrid users in order to provide them with information such as network incidents or the estimated time of arrival of the next train.<br/>*Aug, 2018 and Jan, 2021*
   * [Google Nest](https://assistant.google.com/services/a/uid/000000a8931e61e8?hl=es)
   * [Alexa](https://www.amazon.es/aitormagan-es-Tiempos-Espera-Metro-Madrid/dp/B08S3CBGJB/)
 
@@ -42,6 +42,6 @@
 * **Databases**<br/>MySQL, PostgreSQL, MongoDB, DynamoDB
 * **Big Data**<br/>Pig, Hive, Redshift
 * **CI/CD**<br/>Jenkins, Travis, Pipelines, Ansible
-* **Code Quality**<br/>JUnit, Mockito, unittest, Cucumber
+* **Code Quality**<br/>JUnit, Mockito, unittest, Cucumber, pytest, jest
 * **Microservices & Rest**<br/>Spring Boot, Flask, Express
 * 🍕 & 🍔 & 🍻
