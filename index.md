@@ -7,12 +7,12 @@
 
 
 # Professional Experience
-* **[CEPSA](https://www.cepsa.com/)**<br/>*2020*
+* **[CEPSA ➡️ Moeve](https://www.moeveglobal.com/)**<br/>*2020*
 * **[BBVA Next Technologies](https://www.bbvanexttechnologies.com/)**<br/>*2016-2020*
 * **CoNWeT Lab - Universidad Politécnica de Madrid**<br/>*2011-2016*
 
 # Personal Projects
-* **[WodBooker](https://github.com/aitormagan/wodbooker)**<br/>In some gyms, users are obligued to book the sessions they want to attend. In some situations, people may forget to book the sessions as they become available. The main intention of WodBooker is to book these sessions as soon as possible. To do so, users can access a webpage to select the day of the week and the hour of the sessions they want to attend. That's all: Oversights will no longer be an excuse not to exercise!<br/>*Jan, 2024*
+* **[WodBooker](https://github.com/aitormagan/wodbooker)**<br/>In some gyms, users are required to book sessions in advance. However, this can be inconvenient when people forget to book as sessions become available. WodBooker aims to solve this problem by providing a user-friendly webpage where users can select the day and time of their desired sessions. With WodBooker, oversights won’t be an excuse for skipping exercise!<br/>*Jan, 2024*
 * **[Home Away Controller](https://github.com/aitormagan/home_away_controller)**<br/>Enabling or disabling some smart accesories automatically when you are at home or away is something that some systems do based on the position of your mobile phone, altough it can impact its battery life. This software is born from this necessity but with battery in mind: user location is detected by checking if the mobile phone is connected to your WiFi router and activate or deactivate the devices based on a configuration file. Extension is a key point on this project: developers are allowed (and encouraged) to create extensions to connect to different routers or smart devices by simply extending a class.<br/>*Jan, 2023*
 * **[Union Fenosa Distribucion & PVP Extractor](https://github.com/aitormagan/ufd-pvpc-extractor)**<br/>Union Fenosa Distribucion is one of the main electricy distribution companies in Spain. The main goal of this project is to extract the consumption of a user and dumping it on a Influx database so it can be consumed from different systems. In addition, the script is also intended for extracting and dumping to the Influx database the prices of the electricity in Spain in a hourly basis.<br/>*Nov, 2021*
 * **[Vacuna COVID Madrid](https://t.me/vacunacovidmadridbot)**<br/>COVID-19 pandemic has been a very rough situation for most of us and vaccination is one of the solutions to recover our lives as they were before. The main intention of this Telegram bot is to notify Madrid people when they are allowed to ask for a vaccination appointment.<br/>*Jun, 2021*
